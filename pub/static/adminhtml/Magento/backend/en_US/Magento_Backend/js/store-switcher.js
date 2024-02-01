@@ -1,0 +1,1 @@
+/home/aswathy/Documents/Training/magento2/vendor/magento/module-backend/view/adminhtml/web/js/store-switcher.js

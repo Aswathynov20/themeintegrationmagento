@@ -1,0 +1,1 @@
+/home/aswathy/Documents/Training/magento2/vendor/magento/module-wishlist/view/frontend/web/js/wishlist.js

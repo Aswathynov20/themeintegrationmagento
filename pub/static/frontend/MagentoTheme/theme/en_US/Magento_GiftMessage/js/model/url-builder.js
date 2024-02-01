@@ -1,0 +1,1 @@
+/home/aswathy/Documents/Training/magento2/vendor/magento/module-gift-message/view/frontend/web/js/model/url-builder.js

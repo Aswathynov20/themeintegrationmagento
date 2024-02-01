@@ -1,0 +1,1 @@
+/home/aswathy/Documents/Training/magento2/vendor/magento/module-shipping/view/frontend/web/js/view/checkout/shipping/shipping-policy.js
